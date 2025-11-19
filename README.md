@@ -50,15 +50,15 @@ dotenv for API key security
 Custom Animation Engine  
 
 🔍 How It Works  
-User Enters Symptoms
-        ↓
-CrewAI Agents Analyze Data 
-        ↓
-Gemini LLM Generates Insight
-        ↓
-Treatment + Precautions Suggested
-        ↓
-Final Report Shown in GUI or Termina
+User Enters Symptoms  
+        ↓  
+CrewAI Agents Analyze Data  
+        ↓  
+Gemini LLM Generates Insight  
+        ↓  
+Treatment + Precautions Suggested  
+        ↓  
+Final Report Shown in GUI or Termina  
 
 🎯 Project Objective  
 Provide instant, accessible health insights 
