@@ -3,8 +3,8 @@
 This project is a smart healthcare assistant that analyzes symptoms, provides basic medical guidance, and offers personalized suggestions using 9 specialized AI agents.
 Built with Python, CrewAI, Google Gemini API, and Tkinter GUI.
 
-🚀 Key Features
-  🤖 9 Healthcare AI Agents (symptom analyzer, treatment recommender, mental health, fitness, nutrition & more)
+🚀 Key Features  
+🤖 9 Healthcare AI Agents (symptom analyzer, treatment recommender, mental health, fitness, nutrition & more)
 🧠 Gemini LLM-powered analysis
 🖥️ Interactive Tkinter GUI
 💬 Terminal (CLI) version included
