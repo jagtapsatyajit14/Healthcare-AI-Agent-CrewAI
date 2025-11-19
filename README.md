@@ -1,4 +1,5 @@
-🌟 Healthcare AI Agent using CrewAI
+🌟 Healthcare AI Agent using CrewAI  
+
 🧠 An Intelligent Multi-Agent Healthcare Assistant Powered by CrewAI + Gemini LLM
 This project is a smart healthcare assistant that analyzes symptoms, provides basic medical guidance, and offers personalized suggestions using 9 specialized AI agents.
 Built with Python, CrewAI, Google Gemini API, and Tkinter GUI.
@@ -49,15 +50,15 @@ dotenv for API key security
 Custom Animation Engine  
 
 🔍 How It Works  
-User Enters Symptoms  
+User Enters Symptoms
         ↓
-CrewAI Agents Analyze Data  
+CrewAI Agents Analyze Data 
         ↓
-Gemini LLM Generates Insight  
+Gemini LLM Generates Insight
         ↓
-Treatment + Precautions Suggested  
+Treatment + Precautions Suggested
         ↓
-Final Report Shown in GUI or Terminal 
+Final Report Shown in GUI or Termina
 
 🎯 Project Objective  
 Provide instant, accessible health insights 
