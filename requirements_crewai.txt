@@ -1,0 +1,7 @@
+customtkinter==5.2.0
+crewai>=1.4.1
+crewai-tools>=1.4.1
+litellm>=1.79.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
+requests>=2.31.0
